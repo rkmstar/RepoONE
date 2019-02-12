@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 806C-FAAE
+
+ Directory of C:\Users\RajNew\Desktop\Project
+
+02/11/2019  11:36 PM    <DIR>          .
+02/11/2019  11:36 PM    <DIR>          ..
+02/11/2019  10:03 PM                22 index.html
+02/11/2019  10:10 PM                28 test1.txt
+02/11/2019  11:36 PM                 0 test2.txt
+               3 File(s)             50 bytes
+               2 Dir(s)  906,412,769,280 bytes free
